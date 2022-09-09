@@ -2,7 +2,7 @@
 
 This repository contains different bash scripts and commands for reolink camera.
 
-## download.sh
+### Download RTSP Stream
 
 This script uses `ffmpeg` to download via RTSP the video and audio from your camera saving it in the MP4 format, the name will start with the `date` of the day (ex. `2022-08-26--22-00-00-capture-0000.mp4`) and a file will be recorded and saved every `$TIME` seconds.  
 The name of the files starts with a date to make it easier the management of the files, like removing easily all the records of a specific month, day or year.
