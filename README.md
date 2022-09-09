@@ -1,4 +1,4 @@
-## Useful scripts
+## Reolink Camera Utility Scripts
 
 This repository contains different bash scripts and commands for reolink camera.
 
